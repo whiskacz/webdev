@@ -6,7 +6,7 @@ body {
 }
 @media (min-width: 360px) {
     body {
-    background-color: orange;
+    background-color: blueviolet;
 }
     .item1{
         display: none;
